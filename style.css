@@ -115,7 +115,7 @@ main button:hover {
 
 .myForm {
   width: 600px;
-  height: 200px;
+  height: 300px;
   margin: 150px auto;
   box-shadow: 0 0 50px;
   padding: 100px;
@@ -133,7 +133,7 @@ main button:hover {
 }
 
 .submit {
-  margin-left: 340px;
+  margin-left: 200px;
   padding: 20px 40px;
   font-size: 20px;
   border-radius: 20px;
