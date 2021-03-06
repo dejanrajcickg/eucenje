@@ -61,8 +61,8 @@ main h1 {
 
 main button {
   position: absolute;
-  top: 48%;
-  left: 48%;
+  top: 50%;
+  left: 45%;
   padding: 10px 20px;
   font-size: 30px;
   background-color: tomato;
