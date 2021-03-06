@@ -116,7 +116,7 @@ main button:hover {
 .myForm {
   width: 600px;
   height: 400px;
-  margin: 200px auto;
+  margin: 100px auto;
   box-shadow: 0 0 50px;
   padding: 100px;
   background-color: rgba(0, 0, 0, 0.7);
@@ -127,8 +127,8 @@ main button:hover {
 .password,
 .email {
   width: 100%;
-  margin-bottom: 80px;
-  height: 50px;
+  margin-bottom: 50px;
+  height: 40px;
   font-size: 40px;
 }
 
