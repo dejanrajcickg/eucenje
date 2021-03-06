@@ -115,8 +115,8 @@ main button:hover {
 
 .myForm {
   width: 600px;
-  height: 400px;
-  margin: 100px auto;
+  height: 200px;
+  margin: 150px auto;
   box-shadow: 0 0 50px;
   padding: 100px;
   background-color: rgba(0, 0, 0, 0.7);
